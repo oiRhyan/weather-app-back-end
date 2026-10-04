@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw datasets
+data/raw/
+
+# Generated data
+data/database/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
